@@ -290,7 +290,7 @@ if (isset($_POST['action'])) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="refresh" content="60">
-    <title>Putz mich hart</title>
+    <title>ProtonetOfficeClean</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
 	<style type="text/css">
