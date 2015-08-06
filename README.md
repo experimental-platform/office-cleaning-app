@@ -1,2 +1,1 @@
-# blank_docker_mysql_apache2_php_app
-blank_docker_mysql_apache2_php_app
+![Imgur](https://i.imgur.com/92YqQp0.png)
